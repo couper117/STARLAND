@@ -60,4 +60,9 @@ MOBILE WIREFRAME (375px)
 │  [<]  [ Submit ]   [>]   │
 └──────────────────────────┘
 ```
+Wireframes: using framebox
+=http://www.framebox.org/AumOX
+Mockup using Figma or Adobe Xd
+Prototype using Figma or Adobe Xd
+=https://www.figma.com/design/GaSJu53pLDQTUtWWWDkz93/StarLand-Onboarding?node-id=0-1&p=f&t=c1D0dFnTbbQYBh5s-0
 
